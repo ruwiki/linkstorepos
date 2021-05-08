@@ -12,5 +12,4 @@ List of tool repositories used in Russian sections of Wikimedia projects
 * https://github.com/putnik/pywikipedia-wikidata
 * https://github.com/SerDIDG/WikiBirdBot
 * https://github.com/Caerno/Calendar-Lua
-* https://github.com/In1quity/mediawiki-extensions-CentralAuth
-* https://github.com/In1quity/dibabel-js
+* https://github.com/nyurik/dibabel-js
