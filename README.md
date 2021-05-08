@@ -4,7 +4,8 @@ List of tool repositories used in Russian sections of Wikimedia projects
 ## Bots
 * [ClaymoreBot](https://ru.wikipedia.org/wiki/User:ClaymoreBot) ☠️: https://github.com/Claymore/WikiBots
 * [IluvatarBot](https://ru.wikipedia.org/wiki/User:IluvatarBot): https://github.com/SiarheiGribov/pyBot
-* [NapalmBot](https://ru.wikipedia.org/wiki/User:NapalmBot): https://github.com/Facenapalm/NapalmBot
+* [NapalmBot](https://ru.wikipedia.org/wiki/User:NapalmBot) ☠️: https://github.com/Facenapalm/NapalmBot
+* [WikisaurusBot](https://ru.wikipedia.org/wiki/User:WikisaurusBot) https://github.com/wikisaurus/wikisaurusbot
 * [PBot](https://ru.wikipedia.org/wiki/User:PBot): https://github.com/putnik/pbot
 
 ### Discord
