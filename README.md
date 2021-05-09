@@ -6,7 +6,6 @@ List of tool repositories used in Russian sections of Wikimedia projects
 * [NapalmBot](https://ru.wikipedia.org/wiki/User:NapalmBot) ☠️: [Facenapalm/NapalmBot](https://github.com/Facenapalm/NapalmBot)
 * [WikisaurusBot](https://ru.wikipedia.org/wiki/User:WikisaurusBot): [wikisaurus/wikisaurusbot](https://github.com/wikisaurus/wikisaurusbot)
 * [PBot](https://ru.wikipedia.org/wiki/User:PBot): [putnik/pbot](https://github.com/putnik/pbot)
-* [MBHbot](https://ru.wikipedia.org/wiki/User:MBHbot): [mbh.toolforge.org](https://mbh.toolforge.org)
 
 ### Discord
 * [stjohann/DiscordWikiBot](https://github.com/stjohann/DiscordWikiBot)
@@ -19,5 +18,8 @@ List of tool repositories used in Russian sections of Wikimedia projects
 
 ## Tools:
 * [DiBabel](https://dibabel.toolforge.org) ☠️: [nyurik/dibabel-js](https://github.com/nyurik/dibabel-js)
+
+# External repositories
+* [MBHbot](https://ru.wikipedia.org/wiki/User:MBHbot): [mbh.toolforge.org](https://mbh.toolforge.org)
 * [Category Pathfinder](https://mbh.toolforge.org/cpf.cgi): [mbh.toolforge.org/cpf.txt](https://mbh.toolforge.org/cpf.txt)
 * [Pages without interwiki](https://mbh.toolforge.org/pages-wo-iwiki.cgi): [mbh.toolforge.org/pages-wo-iwiki.txt](https://mbh.toolforge.org/pages-wo-iwiki.txt)
