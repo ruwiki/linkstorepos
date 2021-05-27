@@ -8,6 +8,7 @@ List of tool repositories used in Russian sections of Wikimedia projects
 * [PBot](https://ru.wikipedia.org/wiki/User:PBot): [putnik/pbot](https://github.com/putnik/pbot)
 
 ### Discord
+* [1VORK/WikiAuthBot](https://github.com/1VORK/WikiAuthBot)
 * [stjohann/DiscordWikiBot](https://github.com/stjohann/DiscordWikiBot)
 
 ## Gadgets
