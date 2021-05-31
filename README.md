@@ -13,6 +13,7 @@ List of tool repositories used in Russian sections of Wikimedia projects
 
 ## Gadgets
 * [Convenient Discussions (CD)](https://commons.wikimedia.org/wiki/User:Jack_who_built_the_house/Convenient_Discussions/ru): [jwbth/convenient-discussions](https://github.com/jwbth/convenient-discussions)
+* [Infobox export](https://www.wikidata.org/wiki/Help:Infobox_export_gadget): [putnik/infobox-export](https://github.com/putnik/infobox-export)
 
 ## Libs
 * Calendar Lua: [Caerno/Calendar-Lua](https://github.com/Caerno/Calendar-Lua)
